@@ -5,7 +5,7 @@
 ### Data Types
 
 |NAME|DESCRIPTION|
-|*--*|*---------*|
+|:--:|:---------:|
 |string|"Hello World"|
 |number|1, 2, 3|
 |boolean|true/false|
@@ -15,7 +15,7 @@
 ### Complex
 
 |NAME|DESCRIPTION|
-|*--*|*---------*|
+|:--:|:---------:|
 |array|["Harry", "Ron", "Hermione"]|
 |object|{ name: "Hermione Granger", house: "Gryffindor"}|
 |function|function(num){return num + 3} / num => num + 3|
@@ -23,14 +23,14 @@
 ### Storing Data - Variables
 
 |NAME|DESCRIPTION|
-|*--*|*---------*|
+|:--:|:---------:|
 |let|Block scoped. Does not have to be initialised to a value|
 |const|Block scoped. Must be initialised to a value. Cannot be reassigned|
 
 ### Some Essential Operators
 
 |NAME|DESCRIPTION|
-|*--*|*---------*|
+|:--:|:---------:|
 |+ - / *|add, subtract, divide, multiply|
 |**|exponentiation - 'to the power of'|
 |%|modulo - returns whole number remainder of a division (eg. 5%2 = 2)|
