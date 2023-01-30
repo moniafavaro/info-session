@@ -9,6 +9,7 @@
 |boolean|true/false|
 |null|Represents intentional absence of value|
 |undefined|Value assigned to newly declared variables|
+<br />
 
 ### Complex
 
@@ -17,6 +18,7 @@
 |array|["Harry", "Ron", "Hermione"]|
 |object|{ name: "Hermione Granger", house: "Gryffindor"}|
 |function|function(num){return num + 3} / num => num + 3|
+<br />
 
 ### Storing Data - Variables
 
@@ -24,6 +26,7 @@
 |:--:|:---------:|
 |let|Block scoped. Does not have to be initialised to a value|
 |const|Block scoped. Must be initialised to a value. Cannot be reassigned|
+<br />
 
 ### Some Essential Operators
 
@@ -36,6 +39,7 @@
 |==|equal - returns true if both sides are equal (does not check data type)|
 |===|strict equal - returns true if both sides are equal and of same data type|
 |!|logical NOT - eg. !true = false|
+<br />
 
 ### Comments
 
@@ -43,3 +47,8 @@ JavaScript comments are two forward slashes
 ```js
 // this is a comment
 ```
+<br />
+
+---
+[Back](../README.md)
+---
