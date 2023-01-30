@@ -5,7 +5,7 @@
 ### Data Types
 
 |NAME|DESCRIPTION|
-|_--_|_---------_|
+|*--*|*---------*|
 |string|"Hello World"|
 |number|1, 2, 3|
 |boolean|true/false|
@@ -15,7 +15,7 @@
 ### Complex
 
 |NAME|DESCRIPTION|
-|_--_|_---------_|
+|*--*|*---------*|
 |array|["Harry", "Ron", "Hermione"]|
 |object|{ name: "Hermione Granger", house: "Gryffindor"}|
 |function|function(num){return num + 3} / num => num + 3|
@@ -23,16 +23,16 @@
 ### Storing Data - Variables
 
 |NAME|DESCRIPTION|
-|_--_|_---------_|
+|*--*|*---------*|
 |let|Block scoped. Does not have to be initialised to a value|
 |const|Block scoped. Must be initialised to a value. Cannot be reassigned|
 
 ### Some Essential Operators
 
 |NAME|DESCRIPTION|
-|_--_|_---------_|
-|+ - / \*|add, subtract, divide, multiply|
-|\*\*|exponentiation - 'to the power of'|
+|*--*|*---------*|
+|+ - / *|add, subtract, divide, multiply|
+|**|exponentiation - 'to the power of'|
 |%|modulo - returns whole number remainder of a division (eg. 5%2 = 2)|
 |=|assignment - assigns a value to a variable|
 |==|equal - returns true if both sides are equal (does not check data type)|
@@ -42,7 +42,6 @@
 ### Comments
 
 JavaScript comments are two forward slashes
-
 ```js
 // this is a comment
 ```
