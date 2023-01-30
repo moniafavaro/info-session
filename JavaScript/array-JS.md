@@ -4,7 +4,7 @@ An array is an object that can store multiple values at once:
 ```js
 const cars = ["Mini", "Range Rover", "BMW"];
 ```
-
+<br />
 
 We can store in a array details about a person, like name, surname, age and height:
 ```js
