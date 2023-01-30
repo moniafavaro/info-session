@@ -12,6 +12,7 @@ for (expression 1; expression 2; expression 3) {
 - **Expression 2** defines the condition for executing the code block.
 
 - **Expression 3** is executed (every time) after the code block has been executed.
+<br />
 
 ```js
 for (let i = 0; i < 5; i++) {
