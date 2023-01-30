@@ -49,6 +49,13 @@ JavaScript comments are two forward slashes
 ```
 <br />
 
+## Useful links
+- [JavaScript Basics - MDN](https://developer.mozilla.org/en-US/docs/Learn/Getting_started_with_the_web/JavaScript_basics)
+- [JavaScript Tutorial - W3SCHOOLS](https://www.w3schools.com/js/)
+- [An Introduction to JavaScript - JS Info](https://javascript.info/intro)
+
+<br />
+
 ---
 [Back](../README.md)
 ---

@@ -22,8 +22,8 @@ for (let i = 0; i < 5; i++) {
 <br />
 
 ## Useful links
-[`for loop` MDN](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Loops_and_iteration)
-[`for loop` Programiz](https://www.programiz.com/javascript/for-loop)
+- [`for loop` MDN](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Loops_and_iteration)
+- [`for loop` Programiz](https://www.programiz.com/javascript/for-loop)
 
 <br />
 

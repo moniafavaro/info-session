@@ -21,9 +21,9 @@ let car = cars[0];
 <br />
 
 ## Useful links
-[`array` MDN](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array)
-[`array` Programiz](https://www.programiz.com/javascript/array)
-[`array` JavaScript.info](https://javascript.info/array)
+- [`array` MDN](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array)
+- [`array` Programiz](https://www.programiz.com/javascript/array)
+- [`array` JavaScript.info](https://javascript.info/array)
 
 <br />
 

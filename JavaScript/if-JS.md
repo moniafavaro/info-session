@@ -25,8 +25,8 @@ if (hour < 18) {
 <br />
 
 ## Useful links
-[`if statement` MDN](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Statements/if...else)
-[`if statement` Programiz](https://www.programiz.com/javascript/if-else)
+- [`if statement` MDN](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Statements/if...else)
+- [`if statement` Programiz](https://www.programiz.com/javascript/if-else)
 
 <br />
 
