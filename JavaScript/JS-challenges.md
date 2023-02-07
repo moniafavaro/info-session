@@ -13,10 +13,11 @@ function sumArray(arr){
 console.log(sumArray([2, 3, -1, 5, 7, 9, 10, 15, 95]));
 ```
 
-- In this challenge we create a function, using the `function` keyword, named `sumArray` that passes an array `arr` as a parameter. 
+- In this challenge we create a function, using the `function` keyword, named `sumArray` that passes `arr` as a parameter. 
 - The function defines a variable `sum` with an initial value of 0 and uses a `for loop` to iterate over each element in the array `arr`. On each iteration, the current element of the array is added to the `sum` variable. 
-- Finally, the function returns the final value of `sum`, which is the sum of all elements in the array. Then we call the function passing an `array` as the argument `[2, 3, -1, 5, 7, 9, 10, 15, 95]`. The code then logs, with `console.log`, the result of calling `sumArray`, the output will be the sum of all elements in the `array`, which is 145.
+- Finally, the function returns the final value of `sum`, which is the sum of all elements in the array. Then we call the function passing an `array` as the argument `[2, 3, -1, 5, 7, 9, 10, 15, 95]`. The code then logs, with `console.log`, the result of calling `sumArray`. The output will be the sum of all elements in the `array`, which is 145.
 <br/>
+
 ---
 
 - Create a function called sumNum that calculate the sum of numbers from 1 to 10
