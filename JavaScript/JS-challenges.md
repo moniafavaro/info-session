@@ -5,7 +5,7 @@
 function sumArray(arr){
     let sum = 0;
     for(let i = 0; i < arr.length; i++){
-        sum += arr[i];
+        sum = sum + arr[i];
     }
     return sum;
 }
@@ -58,6 +58,17 @@ function sumTriple (x, y) {
 console.log(sumTriple(10, 20));
 console.log(sumTriple(10, 10));
 ```
+
+- In this challenge we create a function named `sumTriple` passing `x, y` as parameters. It checks if `x` is equal to `y` using an `if statement`.
+- If `x` is equal to `y`, the function returns `3 * (x + y)`. If `x` is not equal to `y`, the function returns `x + y`.
+- The code then logs the result of calling `sumTriple` twice, once with the arguments `(10, 20)` and once with the arguments `(10, 10)`, to the console using `console.log(sumTriple(10,20))` and `console.log(sumTriple(10,10))`.
+- The first call to `sumTriple` will return the value `30` because `x` and `y` are not equal.
+- The second call to `sumTriple` will return the value `60` because `x` and `y` are equal and the function returns `3 * (x + y)` instead of `x + y`.
+
+<br />
+
+---
+
 <br />
 
 - Create a function called test50 that checks two given numbers and return true if one of the number is 50 or if their sum is 50
