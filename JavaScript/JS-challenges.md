@@ -40,10 +40,10 @@ console.log(sumTriple(10, 10));
 ```
 
 - In this challenge we create a function named `sumTriple` passing `x, y` as parameters. It checks if `x` is equal to `y` using an `if statement`.
-- If `x` is equal to `y`, the function returns `3 * (x + y)`. If `x` is not equal to `y`, the function returns `x + y`.
+- If `x` is **equal** to `y`, the function returns `3 * (x + y)`. If `x` is **not equal** to `y`, the function returns `x + y`.
 - The code then logs the result of calling `sumTriple` twice, once with the arguments `(10, 20)` and once with the arguments `(10, 10)`, to the console using `console.log(sumTriple(10,20))` and `console.log(sumTriple(10,10))`.
-- The first call to `sumTriple` will return the value `30` because `x` and `y` are not equal.
-- The second call to `sumTriple` will return the value `60` because `x` and `y` are equal and the function returns `3 * (x + y)` instead of `x + y`.
+- The first call to `sumTriple` will return the value `30` because `x` **and** `y` are **not equal**.
+- The second call to `sumTriple` will return the value `60` because `x` **and** `y` are **equal** and the function returns `3 * (x + y)` instead of `x + y`.
 
 <br />
 
@@ -66,7 +66,8 @@ console.log(sumArray([2, 3, -1, 5, 7, 9, 10, 15, 95]));
 
 - In this challenge we create a function, using the `function` keyword, named `sumArray` that passes `arr` as a parameter. 
 - The function defines a variable `sum` with an initial value of 0 and uses a `for loop` to iterate over each element in the array `arr`. On each iteration, the current element of the array is added to the `sum` variable. 
-- Finally, the function returns the final value of `sum`, which is the sum of all elements in the array. Then we call the function passing an `array` as the argument `[2, 3, -1, 5, 7, 9, 10, 15, 95]`. The code then logs, with `console.log`, the result of calling `sumArray`. The output will be the sum of all elements in the `array`, which is 145.
+- Finally, the function returns the final value of `sum`, which is the **sum** of all elements in the array. Then we call the function passing an `array` as the argument `[2, 3, -1, 5, 7, 9, 10, 15, 95]`. 
+- The code then logs, with `console.log`, the result of calling `sumArray`. The output will be the sum of all elements in the `array`, which is 145.
 
 <br/>
 
@@ -90,8 +91,8 @@ console.log(sumNum(10));
 ```
 
 - In this challenge we create a function named `sumNum` passing `num` as parameter, and it calculates the sum of the numbers from 1 to `num`. It does this by defining a variable called `sum` with a initial value of 0.
-- Then uses a `for loop` to iterate over the numbers from 1 to `num`. On each iteration, the current number `i` is added to the `sum` variable. Finally, the function returns the final value of `sum`, which is the sum of all numbers from 1 to `num`.
-- The code then logs the result of calling `sumNum` with the argument `10` to the console using `console.log(sumNum(10))`. The output will be the sum of all numbers from 1 to 10, which is 55.
+- Then uses a `for loop` to iterate over the numbers from 1 to `num`. On each iteration, the current number `i` is added to the `sum` variable. Finally, the function returns the final value of `sum`, which is the **sum** of all numbers from 1 to `num`.
+- The code then logs the result of calling `sumNum` with the argument `10` to the console using `console.log(sumNum(10))`. The output will be the **sum** of all numbers from 1 to 10, which is 55.
 
 <br />
 
