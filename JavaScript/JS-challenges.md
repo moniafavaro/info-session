@@ -82,8 +82,15 @@ console.log(test50(20, 50))
 console.log(test50(20, 20))
 console.log(test50(20, 30))
 ```
-<br />
 
+- In this challenge we create a function named `sumTriple` passing `x, y` as parameters. It returns a boolean (`true/false`) value that indicates whether either `x` **or** `y` is equal to 50, or whether the sum of `x` **and** `y` is equal to 50.
+- The code then logs the result of calling `test50` four times, with different arguments, to the console using `console.log(test50(50,50))`, `console.log(test50(20, 50))`, `console.log(test50(20, 20))`, and `console.log(test50(20, 30))`.
+- The first call to `test50` will return `true` because `x` **and** `y` are both equal to 50.
+- The second call will return `true` because `y` is equal to 50.
+- The third call will return `false` because `x` **and** `y` are both less than 50.
+- The fourth call to `test50` will return `true` because `x` **plus** `y` is equal to 50.
+
+<br />
 
 ---
 [Back](../README.md)
