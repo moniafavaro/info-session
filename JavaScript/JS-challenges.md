@@ -20,20 +20,30 @@ console.log(sumArray([2, 3, -1, 5, 7, 9, 10, 15, 95]));
 
 ---
 
+<br />
+
 - Create a function called sumNum that calculate the sum of numbers from 1 to 10
 ```js
 function sumNum(num) {
   let sum = 0;
   
   for(let i = 1; i <= num; i++){
-      sum += i;
+      sum += i; // sum = sum + i
   }
 
   return sum
 }
 
-console.log(10);
+console.log(sumNum(10));
 ```
+
+- In this challenge we create a function named `sumNum` passing `num` as parameter, and it calculates the sum of the numbers from 1 to `num`. It does this by defining a variable called `sum` with a initial value of 0.
+- Then uses a `for loop` to iterate over the numbers from 1 to `num`. On each iteration, the current number `i` is added to the `sum` variable. Finally, the function returns the final value of `sum`, which is the sum of all numbers from 1 to `num`.
+- The code then logs the result of calling `sumNum` with the argument `10` to the console using `console.log(sumNum(10))`. The output will be the sum of all numbers from 1 to 10, which is 55.
+<br />
+
+---
+
 <br />
 
 - Create a function called sumTriple that computes the sum of the two given integers. If the two values are same, then returns triple their sum
