@@ -6,7 +6,8 @@ const cars = ["Mini", "Range Rover", "BMW"];
 ```
 <br />
 
-We can store in a array details about a person, like name, surname, age and height:
+JavaScript arrays are resizable and can contain a mix of different data types.
+If we want to store details about a person, e.g. name, surname, age and height, we can use:
 ```js
 const person = ["Albus","Dumbledore", 115, 1.85]
 ```
