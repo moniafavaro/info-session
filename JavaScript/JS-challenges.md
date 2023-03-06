@@ -1,8 +1,8 @@
 ## JavaScript Challenges
 
 - Most programming languages have the concept of a function, which is a block of code designed to perform a particular task.
-- Each language have their own syntax to define a function.
-- This is how a function is defined in JavaScript:
+- Each language have their own syntax to define a function, in JavaScript there're a few ways.
+- This is one way a function can be defined in JavaScript:
   - We use the keyword `function` followed by a name, followed by parentheses `()`.
     ```js
     function myFunction()
