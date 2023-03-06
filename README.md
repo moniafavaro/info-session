@@ -1,4 +1,4 @@
-# futureproof Info Session
+# La Fosse Academy Info Session
 
 - [Just Enough JavaScript](./JavaScript/basic-JS.md)
 - [If Statements](./JavaScript/if-JS.md)
