@@ -7,9 +7,17 @@
    ```js
    function myFunction()
    ```
-  - The parentheses may include parameter names separated by commas: `(parameter1, parameter2, ...)`
+  - The parentheses may include parameter names separated by commas: `(parameter1, parameter2, ...)`.
+    ```js
+    function myFunction(param1, param2)
+    ```
   - In simple terms Parameters (or placeholders) are inputs to the function. Later on these ‘inputs’ must be provided to the function as Arguments.
   - The code to be executed, by the function, is placed inside curly brackets `{}`.
+    ```js
+    function myFunction(param1, param2){
+      block of code
+    }
+    ```
   - Function arguments are the values received by the function when it is invoked, or called.
 
 <br />
