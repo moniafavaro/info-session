@@ -1,5 +1,14 @@
 ## JavaScript Challenges
 
+- Most programming languages have the concept of a function, which is a block of code designed to perform a particular task.
+- Each language have their own syntax to define a function.
+- This is how a function is defined in JavaScript:
+  - We use the keyword `function` followed by a name, followed by parentheses `()`.
+  - The parentheses may include parameter names separated by commas: `(parameter1, parameter2, ...)`
+  - In simple terms Parameters (or placeholders) are inputs to the function. Later on these ‘inputs’ must be provided to the function as Arguments.
+  - The code to be executed, by the function, is placed inside curly brackets `{}`.
+  - Function arguments are the values received by the function when it is invoked, or called.
+
 
 - Create a function called test50 that checks two given numbers and return true if one of the number is 50 or if their sum is 50
 ```js
@@ -31,10 +40,10 @@ console.log(test50(20, 30))
 function sumTriple (x, y) {
   if (x == y) {
     return 3 * (x + y);
-    }else {
+  }else {
     return (x + y);
-    }
- }
+  }
+}
 console.log(sumTriple(10, 20));
 console.log(sumTriple(10, 10));
 ```
