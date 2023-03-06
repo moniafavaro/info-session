@@ -4,9 +4,9 @@
 - Each language have their own syntax to define a function.
 - This is how a function is defined in JavaScript:
   - We use the keyword `function` followed by a name, followed by parentheses `()`.
-   ```js
-   function myFunction()
-   ```
+    ```js
+    function myFunction()
+    ```
   - The parentheses may include parameter names separated by commas: `(parameter1, parameter2, ...)`.
     ```js
     function myFunction(param1, param2)
