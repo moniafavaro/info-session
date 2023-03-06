@@ -19,6 +19,13 @@
     }
     ```
   - Function arguments are the values received by the function when it is invoked, or called.
+    ```js
+    function myFunction(param1, param2){
+      block of code
+    }
+    
+    myFunction(10,20)
+    ```
 
 <br />
 
