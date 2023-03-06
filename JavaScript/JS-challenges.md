@@ -9,6 +9,11 @@
   - The code to be executed, by the function, is placed inside curly brackets `{}`.
   - Function arguments are the values received by the function when it is invoked, or called.
 
+<br />
+
+---
+
+<br />
 
 - Create a function called test50 that checks two given numbers and return true if one of the number is 50 or if their sum is 50
 ```js
